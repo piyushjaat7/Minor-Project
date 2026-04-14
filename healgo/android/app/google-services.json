@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912826765685",
+    "project_id": "healgo-8f256",
+    "storage_bucket": "healgo-8f256.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912826765685:android:f0814610f316d21be1833c",
+        "android_client_info": {
+          "package_name": "com.healgo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xyw4_TvgDBPSdiSvuYDyb9gZgcBRTLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
